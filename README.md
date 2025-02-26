@@ -131,3 +131,11 @@ Missing Value Handling: Applying mean imputation for numerical data and removing
 File Type Validation: The automated file format detection (CSV/XLSX) ensures seamless data processing without manual intervention.
 Data Quality Enhancement: Cleaning the dataset improves accuracy and reliability, making it more suitable for ETL workflows and machine learning applications.
 Automated Preprocessing: The system streamlines data validation, cleaning, and saving, reducing manual effort and ensuring efficient data handling.
+
+
+
+This project is part of my portfolio, showcasing the Python skills essential for data analyst roles.
+
+
+
+Thank you!
