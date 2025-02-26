@@ -14,3 +14,26 @@ The Automated Data Cleaning System using Python streamlines preprocessing for CS
 - Handle missing values by applying mean imputation for numerical data and dropping categorical entries with null values.
 - Validate file paths and ensure correct file format detection (CSV or Excel).
 - Save cleaned datasets automatically for further analysis and machine learning workflows.
+
+## Tasks
+- To create a python application that can take datasets and clean the data
+- It should ask for datasets path and name
+- It should check number of duplicats and remove all the duplicates 
+- It should keep a copy of all the duplicates
+- It should check for missing values 
+- If any column that is numeric it should replace nulls with mean else it should drop that rows
+- At end it should save the data as clean data and also return 
+- Duplicates records, clean_data 
+
+
+# importing dependencies
+import pandas as pd
+import numpy as np
+import time
+import openpyxl
+import xlrd
+import os
+import random
+
+# data_path = 'sales.xlsx'
+# data_name = 'jan_sales'
